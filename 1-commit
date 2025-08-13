@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a file that contains code on file to save or commit
+
+git commit -m "message here"
