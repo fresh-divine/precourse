@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a file that contains command on how to add file to github 
+git add <filename>
