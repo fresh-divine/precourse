@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# this file contains a command to upload the file to remote server
+
+git push
