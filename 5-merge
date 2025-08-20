@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# to integrate changes from diffrent branches into single branch
+git merge

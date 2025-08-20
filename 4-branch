@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+# a line of development within a repository
+git branch <new branch name>
